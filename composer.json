@@ -1,0 +1,15 @@
+{
+    "name": "liuruijie/test1",
+    "autoload": {
+        "psr-4": {
+            "Liuruijie\\Test1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "liuruijie",
+            "email": "582161766@qq.com"
+        }
+    ],
+    "require": {}
+}
